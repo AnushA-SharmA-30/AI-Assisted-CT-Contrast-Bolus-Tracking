@@ -2,6 +2,7 @@
 Manual CT contrast bolus tracking is error-prone and time-consuming, affecting accuracy and 
 efficiency. This project develops an AI model to automate tracking, ensuring precision and 
 consistency. 
+
 3.4 Objectives 
 1. To build a clean and reliable dataset: Collect the dataset and perform data filtering, 
 normalization, and preprocessing to prepare it for model training. 
