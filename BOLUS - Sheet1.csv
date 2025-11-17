@@ -1,0 +1,800 @@
+Hospital Number,Study type,Machine type,HU,Bolus tracking time(seconds),Age,Sex,Height (cm),Weight (kg),Pitch,Rotation time,Contrast type ,Total volume of contrast given to patient,Flow rate,Contrast given by
+22038836,Abdomen & Pelvis,128 slice CT,157,22,62,Male,160,78,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22059745,Abdomen & Pelvis,128 slice CT,175,16,50,Female,149,49,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22054335,Abdomen & Pelvis,128 slice CT,123,15,51,Female,157,47,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+21023656,Abdomen & Pelvis,128 slice CT,133,14,43,Female,151,42,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+22093614,Abdomen & Pelvis,128 slice CT,117,23,38,Male,170,50,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22095299,Abdomen & Pelvis,128 slice CT,107,17,50,Female,149,49,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22094097,Abdomen & Pelvis,128 slice CT,111,24,45,Male,137,74,0.984:1,0.4,Iopromide 370 mgI,85,2.8,Pressure injector
+22090690,Abdomen & Pelvis,128 slice CT,102,18,26,Male,175,67,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+22022227,Abdomen & Pelvis,128 slice CT,199,16,57,Male,158,60,0.984:1,0.6,Iopromide 370 mgI,85,3.3,Pressure injector
+22098190,Abdomen & Pelvis,128 slice CT,100,14,68,Female,158,56,0.984:1,0.4,Iopromide 370 mgI,85,2.7,Pressure injector
+22097193,Abdomen & Pelvis,128 slice CT,168,27,39,Female,156,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22097785,Abdomen & Pelvis,128 slice CT,133,19,70,Female,155,60,0.984:1,0.6,Iopromide 370 mgI,70,2.5,Pressure injector
+22048584,Abdomen & Pelvis,128 slice CT,122,17,53,Male,160,65,0.984:1,0.6,Iopromide 370 mgI,85,3.5,Pressure injector
+22099327,Abdomen & Pelvis,128 slice CT,137,20,57,Male,163,58,0.984:1,1,Iopromide 370 mgI,85,3,Pressure injector
+21043318,Abdomen & Pelvis,128 slice CT,186,14,37,Female,158,55,1.375:1,0.4,Iopromide 370 mgI,90,3.5,Pressure injector
+22098118,Abdomen & Pelvis,128 slice CT,106,26,26,Male,164,75,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+18106438,Abdomen & Pelvis,128 slice CT,122,24,54,Male,162,70,0.516:1,1,Iopromide 370 mgI,85,3,Pressure injector
+21033999,Abdomen & Pelvis,128 slice CT,174,18,77,Male,159,60,0.984:1,0.4,Iopromide 370 mgI,85,2.9,Pressure injector
+22099801,Abdomen & Pelvis,128 slice CT,170,23,62,Male,168,70,0.516:1,1,Iohexol 350 mgI,100,4,Pressure injector
+22100124,Abdomen & Pelvis,128 slice CT,116,20,57,Male,162,69,0.516:1,1,Iohexol 350 mgI,85,3.7,Pressure injector
+22100058,Abdomen & Pelvis,128 slice CT,169,21,71,Male,160,60,0.984:1,0.6,Iopromide 370 mgI,85,2.7,Pressure injector
+19069480,Abdomen & Pelvis,128 slice CT,122,16,65,Male,161,58,0.516:1,1,Iopromide 370 mgI,80,2.8,Pressure injector
+22036501,Abdomen & Pelvis,128 slice CT,110,15,37,Female,156,56,0.516:1,1,Iopromide 370 mgI,85,3.5,Pressure injector
+22101263,Abdomen & Pelvis,128 slice CT,140,20,44,Male,164,75,0.516:1,1,Iopromide 370 mgI,85,3,Pressure injector
+21040743,Abdomen & Pelvis,128 slice CT,198,18,52,Female,165,60,0.516:1,1,Iopromide 370 mgI,80,3.5,Pressure injector
+20016415,Abdomen & Pelvis,128 slice CT,174,14,64,Female,154,52,0.516:1,1,Iopromide 370 mgI,85,2.8,Pressure injector
+22100837,Abdomen & Pelvis,128 slice CT,180,14,71,Female,158,55,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+22101708,Abdomen & Pelvis,128 slice CT,143,28,58,Male,175,72,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22102901,Abdomen & Pelvis,128 slice CT,192,14,48,Male,153,46,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+19007662,Abdomen & Pelvis,128 slice CT,170,19,33,Male,156,60,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+22003442,Abdomen & Pelvis,128 slice CT,168,23,22,Male,170,72,0.984:1,0.6,Iopromide 370 mgI,80,3.5,Pressure injector
+22066808,Abdomen & Pelvis,128 slice CT,128,18,58,Male,162,60,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+22118623,Abdomen & Pelvis,128 slice CT,183,16,55,Male,158,56,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+22103483,Abdomen & Pelvis,128 slice CT,117,17,64,Male,157,60,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+22118702,Abdomen & Pelvis,128 slice CT,170,16,48,Male,158,59,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22119340,Abdomen & Pelvis,128 slice CT,142,16,64,Male,158,55,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22122365,Abdomen & Pelvis,128 slice CT,145,15,53,Female,155,55,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+22122642,Abdomen & Pelvis,128 slice CT,191,16,43,Female,156,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22120753,Abdomen & Pelvis,128 slice CT,101,18,57,Male,165,66,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+22037007,Abdomen & Pelvis,128 slice CT,107,17,60,Female,158,61,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+21008422,Abdomen & Pelvis,128 slice CT,182,18,58,Male,168,68,0.984:1,0.6,Iopromide 370 mgI,98,3,Pressure injector
+22117833,Abdomen & Pelvis,128 slice CT,110,14,58,Male,165,50,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+22125129,Abdomen & Pelvis,128 slice CT,127,15,60,Male,164,57,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+22124459,Abdomen & Pelvis,128 slice CT,186,18,27,Male,168,66,0.984:1,0.6,Iohexol 350 mgI,80,3,Pressure injector
+22126343,Abdomen & Pelvis,128 slice CT,119,14,70,Male,154,41,0.984:1,0.4,Iohexol 350 mgI,80,3,Pressure injector
+22123837,Abdomen & Pelvis,128 slice CT,122,18,75,Male,146,63,0.984:1,0.4,Iopromide 370 mgI,85,3.5,Pressure injector
+20032548,Abdomen & Pelvis,128 slice CT,197,17,64,Male,175,64,0.984:1,0.6,Iopromide 370 mgI,85,4,Pressure injector
+22134448,Abdomen & Pelvis,128 slice CT,157,16,50,Female,156,56,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23003856,"Abdomen & Pelvis, ",128 slice CT,115,24,58,Male,170,76,0.984:1,0.6,Iopromide 370 mgI,88,4,Pressure injector
+23006938,Abdomen & Pelvis,128 slice CT,191,23,32,Male,167,72,0.984:1,0.6,Iopromide 370 mgI,80,35,Pressure injector
+23010621,Abdomen & Pelvis,128 slice CT,116,14,38,Male,170,56,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+20012411,Abdomen & Pelvis,128 slice CT,159,26,61,Female,151,84,0.984:1,0.6,Iopromide 370 mgI,90,3.5,Pressure injector
+23010953,Abdomen & Pelvis,128 slice CT,188,14,55,Female,153,43,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23023756,Abdomen & Pelvis,128 slice CT,131,18,56,Male,164,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+19061170,Abdomen & Pelvis,128 slice CT,121,14,56,Female,158,52,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+23025662,Abdomen & Pelvis,128 slice CT,159,15,66,Female,148,47,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+22030223,Abdomen & Pelvis,128 slice CT,192,25,55,Male,175,82,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+20018381,Abdomen & Pelvis,128 slice CT,121,18,41,Male,164,56,7.71,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23025605,Abdomen & Pelvis,128 slice CT,160,18,46,Male,173,64,0.984:1,0.4,Iopromide 370 mgI,85,2.9,Pressure injector
+23023983,Abdomen & Pelvis,128 slice CT,181,14,60,Female,149,50,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+20026113,Abdomen & Pelvis,128 slice CT,177,26,63,Male,170,92,0.984:1,0.6,Iopromide 370 mgI,90,3.3,Pressure injector
+23028484,Abdomen & Pelvis,128 slice CT,111,20,63,Male,169,63,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+23028682,Abdomen & Pelvis,128 slice CT,153,18,53,Male,165,55,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+22030223,Abdomen & Pelvis,128 slice CT,171,17,55,Male,170,65,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+23000062,Abdomen & Pelvis,128 slice CT,144,22,60,Male,165,65,0.984:1,0.6,Iohexol 350 mgI,90,3.3,Pressure injector
+23020906,Abdomen & Pelvis,128 slice CT,186,19,48,Female,160,58,0.984:1,0.4,Iohexol 350 mgI,80,2.8,Pressure injector
+23026840,Abdomen & Pelvis,128 slice CT,168,17,75,Female,52.5,45,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23029441,Abdomen & Pelvis,128 slice CT,169,21,43,Male,160,62,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+23032917,Abdomen & Pelvis,128 slice CT,127,14,50,Female,164,58,0.984:1,0.4,Iohexol 350 mgI,77,2.8,Pressure injector
+17046226,Abdomen & Pelvis,128 slice CT,124,24,36,Female,170,72,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23036071,Abdomen & Pelvis,128 slice CT,110,21,60,Male,162,64,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23041485,Abdomen & Pelvis,128 slice CT,136,20,52,Female,165,60,0.984:1,0.4,Iopromide 370 mgI,85,3.5,Pressure injector
+23042083,Abdomen & Pelvis,128 slice CT,100,14,29,Female,157,54,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+22082022,Abdomen & Pelvis,128 slice CT,137,15,58,Male,159,60,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+22055749,Abdomen & Pelvis,128 slice CT,118,18,34,Male,162,63,0.984:1,0.6,Iohexol 350 mgI,90,2.8,Pressure injector
+23042026,Abdomen & Pelvis,128 slice CT,130,19,65,Male,158,57,0.984:1,0.4,Iohexol 350 mgI,78,2.8,Pressure injector
+21026304,Abdomen & Pelvis,128 slice CT,142,14,52,Female,151,37,0.984:1,0.6,Iohexol 350 mgI,80,3,Pressure injector
+23072792,Abdomen & Pelvis,128 slice CT,153,16,40,Female,165,60,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+23071836,Abdomen & Pelvis,128 slice CT,120,15,42,Male,175,55,0.984:1,0.4,Iohexol 350 mgI,75,3,Pressure injector
+23072919,Abdomen & Pelvis,128 slice CT,172,14,69,Female,147,60,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+15010904,Abdomen & Pelvis,128 slice CT,194,25,55,Female,159,85,0.984:1,0.6,Iohexol 350 mgI,88,3,Pressure injector
+23085479,Abdomen & Pelvis,128 slice CT,196,21,77,Female,164,66,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+23089239,Abdomen & Pelvis,128 slice CT,163,15,53,Male,164,58,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+22055130,Abdomen & Pelvis,128 slice CT,125,16,60,Male,177,62,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+23095994,Abdomen & Pelvis,128 slice CT,102,14,56,Male,150,40,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+23103595,Abdomen & Pelvis,128 slice CT,198,16,76,Female,142,38,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+23102581,Abdomen & Pelvis,128 slice CT,131,14,79,Female,152,58,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23102524,Abdomen & Pelvis,128 slice CT,175,16,66,Male,160,58,0.984:1,0.8,Iopromide 370 mgI,85,3.2,Pressure injector
+23103829,Abdomen & Pelvis,128 slice CT,164,15,28,Male,174,62,0.984:1,0.6,Iopromide 370 mgI,80,3.2,Pressure injector
+23103587,Abdomen & Pelvis,128 slice CT,121,19,30,Female,155,65,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23103262,Abdomen & Pelvis,128 slice CT,186,17,80,Male,170,60,0.984:1,0.6,Iopromide 370 mgI,80,3.2,Pressure injector
+23104291,Abdomen & Pelvis,128 slice CT,126,15,81,Male,155,55,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23063495,Abdomen & Pelvis,128 slice CT,100,17,35,Female,152,40,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+23104531,Abdomen & Pelvis,128 slice CT,110,19,78,Female,158,52,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23104556,Abdomen & Pelvis,128 slice CT,160,17,67,Male,157,51,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23103911,Abdomen & Pelvis,128 slice CT,137,19,62,Male,155,60,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+22009702,Abdomen & Pelvis,128 slice CT,139,16,68,Female,155,54,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23103995,Abdomen & Pelvis,128 slice CT,184,17,21,Male,170,51,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23105078,Abdomen & Pelvis,128 slice CT,116,21,28,Female,150,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23103911,Abdomen & Pelvis,128 slice CT,142,20,62,Male,155,64,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+23104557,Abdomen & Pelvis,128 slice CT,195,21,48,Female,155,60,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+23102397,Abdomen & Pelvis,128 slice CT,106,26,41,Female,167,90,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23105022,Abdomen & Pelvis,128 slice CT,197,14,75,Female,143,45,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+20029575,Abdomen & Pelvis,128 slice CT,165,18,50,Male,170,75,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23041466,Abdomen & Pelvis,128 slice CT,108,16,62,Male,161,60,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23098218,Abdomen & Pelvis,128 slice CT,148,16,47,Male,156,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23091239,Abdomen & Pelvis,128 slice CT,123,16,26,Male,165,68,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23106939,Abdomen & Pelvis,128 slice CT,175,18,53,Female,145,45,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23105460,Abdomen & Pelvis,128 slice CT,196,25,11,Male,144,28,0.984:1,0.6,Iohexol 350 mgI,45,2.7,Pressure injector
+23075875,Abdomen & Pelvis,128 slice CT,153,28,63,Male,65,161,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+23106950,Abdomen & Pelvis,128 slice CT,114,16,53,Male,160,40,0.984:1,0.4,Iopromide 370 mgI,75,3,Pressure injector
+23106994,Abdomen & Pelvis,128 slice CT,188,16,34,Female,149,51,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+23108359,Abdomen & Pelvis,128 slice CT,119,17,55,Female,159,52,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+19049185,Abdomen & Pelvis,128 slice CT,171,14,62,Female,164,59,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+18118877,Abdomen & Pelvis,128 slice CT,143,17,66,Female,157,48,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+23002706,Abdomen & Pelvis,128 slice CT,198,15,43,Male,165,47,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+22104916,Abdomen & Pelvis,128 slice CT,104,17,35,Female,151.6,52,0.984:1,0.4,Iopromide 370 mgI,77,3,Pressure injector
+23106342,Abdomen & Pelvis,128 slice CT,194,14,46,Female,153.2,53,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+15037845,Abdomen & Pelvis,128 slice CT,186,16,27,Male,175,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+18015556,Abdomen & Pelvis,128 slice CT,140,17,22,Female,162,58,0.984:1,0.4,Iopromide 370 mgI,80,2.8,Pressure injector
+23010370,Abdomen & Pelvis,128 slice CT,140,17,50,Male,164,53,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23110248,Abdomen & Pelvis,128 slice CT,199,16,34,Male,161.2,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+13033192,Abdomen & Pelvis,128 slice CT,196,14,62,Female,135,46,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+19019192,Abdomen & Pelvis,128 slice CT,121,15,63,Male,161,58,0.984:1,0.6,Iopromide 370 mgI,85,2.7,Pressure injector
+23114978,Abdomen & Pelvis,128 slice CT,183,14,10,Male,147,34,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+19077625,Abdomen & Pelvis,128 slice CT,132,16,56,Male,178,65,0.984:1,0.6,Iohexol 350 mgI,85,3ml,Pressure injector
+23119601,Abdomen & Pelvis,128 slice CT,141,16,48,Female,150,42,0.984:1,0.6,Iohexol 350 mgI,75,3,Pressure injector
+23118503,Abdomen & Pelvis,128 slice CT,169,14,24,Female,144,45,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+14024734,Abdomen & Pelvis,128 slice CT,186,18,72,Male,150,70,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+23060756,Abdomen & Pelvis,128 slice CT,170,19,40,Male,165,56,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+23120979,Abdomen & Pelvis,128 slice CT,180,14,33,Male,178.5,86,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+23123302,Abdomen & Pelvis,128 slice CT,124,26,45,Male,160,75,0.987:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+23123836,Abdomen & Pelvis,128 slice CT,154,14,75,Male,159,47,0.984:1,0.6,Iopromide 370 mgI,78,3,Pressure injector
+23111652,Abdomen & Pelvis,128 slice CT,130,15,52,Female,140,30,0.984:1,0.4,Iopromide 370 mgI,70,2.7,Pressure injector
+22018728,Abdomen & Pelvis,128 slice CT,163,22,46,Male,172,79,0.984:1,0.6,Iopromide 370 mgI,89,3.5,Pressure injector
+23115770,Abdomen & Pelvis,128 slice CT,184,19,63,Male,180,56,0.984:1,0.6,Iopromide 370 mgI,75 contrast + saline 30,3,Pressure injector
+17062563,Abdomen & Pelvis,128 slice CT,118,20,75,Female,150,49,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 30  saline,3,Pressure injector
+23125246,Abdomen & Pelvis,128 slice CT,172,19,64,Female,152,50,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23124712,Abdomen & Pelvis,128 slice CT,131,23,35,Male,174,84,0.984:1,0.6,Iopromide 370 mgI,85,3.5,Pressure injector
+23123762,Abdomen & Pelvis,128 slice CT,131,26,74,Male,172,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23123737,Abdomen & Pelvis,128 slice CT,130,18,59,Male,170,48,0.984:1,0.4,Iopromide 370 mgI,78,3,Pressure injector
+22103950,Abdomen & Pelvis,128 slice CT,167,15,72,Female,150,46,0.984:1,0.6,Iopromide 370 mgI,78,2.8,Pressure injector
+21033988,Abdomen & Pelvis,128 slice CT,131,25,49,Female,153,62,0.984:1,0.6,Iopromide 370 mgI,85 contrast+ 30  saline,2.7,Pressure injector
+23126193,Abdomen & Pelvis,128 slice CT,122,20,57,Male,182.5,84,0.984:1,0.6,Iopromide 370 mgI,85  contrast + 30  saline,3,Pressure injector
+19044706,Abdomen & Pelvis,128 slice CT,137,22,52,Male,158,60,0.984:1,0.6,Iopromide 370 mgI,80 contrast + 30  saline,3,Pressure injector
+23054692,Abdomen & Pelvis,128 slice CT,193,20,45,Female,146,56,0.984:1,0.6,Iopromide 370 mgI,85 contrast +30 saline,3,Pressure injector
+23126014,Abdomen & Pelvis,128 slice CT,108,13,40,Female,148,43,0.984:1,0.6,Iopromide 370 mgI,75 contrast + 30  saline,3,Pressure injector
+22094381,Abdomen & Pelvis,128 slice CT,110,20,56,Male,172,80,0.984:1,0.6,Iohexol 350 mgI,88 contrast + 30  saline,3,Pressure injector
+23126014,Abdomen & Pelvis,128 slice CT,198,19,40,Female,149,34,0.984:1,0.6,Iopromide 370 mgI,70 contrast +30  saline,3,Pressure injector
+23130869,Abdomen & Pelvis,128 slice CT,150,23,39,Male,169,75,0.984:1,0.6,Iohexol 350 mgI,88,3,Pressure injector
+23058517,Abdomen & Pelvis,128 slice CT,169,21,61,Female,154,65,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+23116426,Abdomen & Pelvis,128 slice CT,125,18,59,Female,157,63,0.984:1,0.6,Iopromide 370 mgI,82,3.2,Pressure injector
+23134352,Abdomen & Pelvis,128 slice CT,120,15,50,Male,163,54,0.984:1,0.6,Iohexol 350 mgI,86,2.8,Pressure injector
+23120049,Abdomen & Pelvis,128 slice CT,132,16,52,Male,168,62,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+23138366,Abdomen & Pelvis,128 slice CT,145,14,41,Male,159,53,0.984:1,0.6,Iopromide 370 mgI,80  contrast + 50  saline,3,Pressure injector
+23138497,Abdomen & Pelvis,128 slice CT,183,19,64,Male,157,50,0.984:1,0.6,Iopromide 370 mgI,85contrast+50saline,3,Pressure injector
+23139406,Abdomen & Pelvis,128 slice CT,176,14,18,Female,152,59,0.984:1,0.6,Iopromide 370 mgI,85 contrast+50 saline,3,Pressure injector
+23133083,Abdomen & Pelvis,128 slice CT,143,16,53,Male,152,59,0.984:1,0.6,Iopromide 370 mgI,85 contrast+50 saline,3,Pressure injector
+19025149,Abdomen & Pelvis,128 slice CT,115,20,39,Male,171,65,0.984:1,0.6,Iopromide 370 mgI,85 contrast +50  saline,3,Pressure injector
+23138373,Abdomen & Pelvis,128 slice CT,111,22,81,Female,155,42,0.984:1,0.6,Iopromide 370 mgI,80 contrast +50 saline,2.8,Pressure injector
+23139545,Abdomen & Pelvis,128 slice CT,145,19,71,Male,152,37,0.984:1,0.6,Iopromide 370 mgI,75 contrast +30  saline,2.8,Pressure injector
+22016280,Abdomen & Pelvis,128 slice CT,139,16,52,Female,140,44,0.984:1,0.4,Iohexol 350 mgI,80+50saline,2.3,Pressure injector
+23140346,Abdomen & Pelvis,128 slice CT,125,14,24,Female,154,29,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+21007499,Abdomen & Pelvis,128 slice CT,187,22,54,Male,174,60,0.984:1,0.6,Iopromide 370 mgI,85contrast+ 50 salin,3,Pressure injector
+20038385,Abdomen & Pelvis,128 slice CT,163,20,60,Male,168,75,0.984:1,0.6,Iopromide 370 mgI,85 of contrast +50  of saline,3,Pressure injector
+23144418,Abdomen & Pelvis,128 slice CT,122,18,57,Male,165,66,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23140698,Abdomen & Pelvis,128 slice CT,115,19,48,Male,168,69,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+21058537,Abdomen & Pelvis,128 slice CT,189,17,48,Female,140,49,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+23112529,Abdomen & Pelvis,128 slice CT,123,15,59,Female,149,50,0.984:1,0.6,Iopromide 370 mgI,82 contrast  & 50 saline,2.8,Pressure injector
+23140965,Abdomen & Pelvis,128 slice CT,143,26,43,Male,167.5,82,0.984:1,0.6,Iopromide 370 mgI,88 contrast and 50 saline,3.5,Pressure injector
+23098366,Abdomen & Pelvis,128 slice CT,148,21,63,Female,154,54,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 30 saline,3,Pressure injector
+23146827,Abdomen & Pelvis,128 slice CT,117,21,30,Male,173,69,0.984:1,0.6,Iopromide 370 mgI,85 contrast +50 saline,4,Pressure injector
+22008095,Abdomen & Pelvis,128 slice CT,176,15,61,Male,157,56,0.984:1,0.6,Iopromide 370 mgI,80 contrast + 50  saline,3,Pressure injector
+22107150,Abdomen & Pelvis,128 slice CT,125,18,27,Female,154,75,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 40  saline,3,Pressure injector
+23140588,Abdomen & Pelvis,128 slice CT,197,21,73,Male,164,53,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50 Saline,3,Pressure injector
+23148083,Abdomen & Pelvis,128 slice CT,190,23,44,Female,164,56,0.984:1,0.6,Iopromide 370 mgI,85 contrast +40 Saline,3,Pressure injector
+23144715,Abdomen & Pelvis,128 slice CT,120,17,49,Female,151,53,0.984:1,0.6,Iopromide 370 mgI,85 + 50 saline,3,Pressure injector
+23149103,Abdomen & Pelvis,128 slice CT,147,19,42,Female,148,54,0.984:1,0.6,Iopromide 370 mgI,85.contrast +50  saline,3,Pressure injector
+23144715,Abdomen & Pelvis,128 slice CT,121,17,49,Female,159,56,0.984:1,0.6,Iopromide 370 mgI,80 contrast +40 saline,3,Pressure injector
+23149509,Abdomen & Pelvis,128 slice CT,110,14,55,Female,154,49,0.984:1,0.6,Iopromide 370 mgI,85 contrast +50 saline,3,Pressure injector
+18065140,Abdomen & Pelvis,128 slice CT,116,16,43,Female,154,60,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,3,Pressure injector
+21068694,Abdomen & Pelvis,128 slice CT,131,16,56,Female,155,50,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+23153327,Abdomen & Pelvis,128 slice CT,194,15,55,Female,155,55,0.984:1,0.6,Iohexol 350 mgI,75,3,Pressure injector
+21060360,Abdomen & Pelvis,128 slice CT,165,16,65,Male,165,60,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+23152707,Abdomen & Pelvis,128 slice CT,148,15,70,Male,170,70,0.984:1,0.6,Iohexol 350 mgI,75,2.5,Pressure injector
+23154974,Abdomen & Pelvis,128 slice CT,136,26,43,Male,151.5,55,0.984:1,0.6,Iopromide 370 mgI,85 contrast+50  saline,3,Pressure injector
+23157028,Abdomen & Pelvis,128 slice CT,198,16,15,Female,155,40,0.984:1,0.6,Iopromide 370 mgI,60,2.6,Pressure injector
+19095759,Abdomen & Pelvis,128 slice CT,136,15,47,Male,168,65,0.984:1,0.6,Iohexol 350 mgI,88,2.8,Pressure injector
+23154923,Abdomen & Pelvis,128 slice CT,116,17,39,Male,165,55,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+23157050,Abdomen & Pelvis,128 slice CT,170,31,70,Male,152,40,0.984:1,0.6,Iohexol 350 mgI,75 contrast+ 50  saline,2.8,Pressure injector
+23159574,Abdomen & Pelvis,128 slice CT,166,17,31,Male,170,70,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+23158387,Abdomen & Pelvis,128 slice CT,156,22,39,Female,158,52,0.984:1,0.6,Iopromide 370 mgI,80 contrast+ 40 saline,3,Pressure injector
+23162162,Abdomen & Pelvis,128 slice CT,197,23,64,Male,171,62,0.984:1,0.6,Iopromide 370 mgI,85 contrast +40 saline,3,Pressure injector
+23162215,Abdomen & Pelvis,128 slice CT,137,15,52,Female,143,43,0.984:1,0.6,Iopromide 370 mgI,80 contrast+ 35 saline,2.8,Pressure injector
+23160189,Abdomen & Pelvis,128 slice CT,107,21,55,Male,162,68,0.984:1,0.6,Iopromide 370 mgI,85 contrast +50 saline,3,Pressure injector
+23148540,Abdomen & Pelvis,128 slice CT,165,13,57,Male,175,67,0.984:1,0.6,Iopromide 370 mgI,85 contrast+50  saline,3,Pressure injector
+23163646,Abdomen & Pelvis,128 slice CT,104,11,72,Female,152,48,0.984:1,0.6,Iopromide 370 mgI,80 contrast+40 saline,3,Pressure injector
+23087862,Abdomen & Pelvis,128 slice CT,160,20,52,Male,168,58,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50 saline,2.8,Pressure injector
+23163437,Abdomen & Pelvis,128 slice CT,145,27,58,Male,172,53,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,3,Pressure injector
+23163034,Abdomen & Pelvis,128 slice CT,178,15,54,Male,168,54,0.984:1,0.6,Iopromide 370 mgI,85 contrast+ 50  saline,3,Pressure injector
+23164291,Abdomen & Pelvis,128 slice CT,158,24,48,Male,182,109,0.984:1,0.6,Iopromide 370 mgI,90  contrast,3,Pressure injector
+23164583,Abdomen & Pelvis,128 slice CT,116,18,62,Male,155,60,0.984:1,0.7,Iopromide 370 mgI,85 contrast and 45 saline,3,Pressure injector
+16100063,Abdomen & Pelvis,128 slice CT,137,19,38,Female,163,62,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 40  saline,3,Pressure injector
+23164703,Abdomen & Pelvis,128 slice CT,135,21,42,Male,171.5,65,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 40  saline,3,Pressure injector
+23164773,Abdomen & Pelvis,128 slice CT,189,12,51,Male,170,71,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23163759,Abdomen & Pelvis,128 slice CT,168,19,60,Male,177,65,0.984:1,0.4,Iopromide 370 mgI,85 contrast +40  saline,2.8,Pressure injector
+23131916,Abdomen & Pelvis,128 slice CT,114,16,44,Female,160,75,0.984:1,0.6,Iopromide 370 mgI,80 contrast + 40 contrast,3,Pressure injector
+23157163,Abdomen & Pelvis,128 slice CT,144,20,40,Female,150,62,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 40 saline,3,Pressure injector
+23165483,Abdomen & Pelvis,128 slice CT,164,19,72,Male,160,68,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+18074179,Abdomen & Pelvis,128 slice CT,126,18,65,Male,155,59,0.984:1,0.6,Iopromide 370 mgI,85 contrast and 50 saline,2.8,Pressure injector
+23165575,Abdomen & Pelvis,128 slice CT,166,14,22,Male,169,78,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,3,Pressure injector
+23166243,Abdomen & Pelvis,128 slice CT,140,18,50,Male,174,78,0.984:1,0.6,Iopromide 370 mgI,85 contrast+50  saline,3,Pressure injector
+23164585,Abdomen & Pelvis,128 slice CT,115,17,18,Male,165,58,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,3,Pressure injector
+23169217,Abdomen & Pelvis,128 slice CT,195,22,41,Male,170,69,0.984:1,0.6,Iopromide 370 mgI,87 contrast + 50 saline,3,Pressure injector
+22063379,Abdomen & Pelvis,128 slice CT,139,25,63,Male,170,75,0.984:1,0.6,Iopromide 370 mgI,85  contrast + 50  saline,3,Pressure injector
+23166696,Abdomen & Pelvis,128 slice CT,100,21,60,Male,157,57,0.984:1,0.6,Iopromide 370 mgI,80 contrast + 40  saline,3,Pressure injector
+23156571,Abdomen & Pelvis,128 slice CT,124,18,29,Male,173,67,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 40 saline,3,Pressure injector
+23176062,Abdomen & Pelvis,128 slice CT,159,19,24,Female,153,46,0.984:1,0.4,Iopromide 370 mgI,75 contrast + 30  saline,2.8,Pressure injector
+18070066,Abdomen & Pelvis,128 slice CT,135,18,73,Male,153,52,0.984:1,0.6,Iopromide 370 mgI,80 contrast + 50  saline,2.8,Pressure injector
+23172717,Abdomen & Pelvis,128 slice CT,175,18,23,Male,175,72,0.984:1,0.6,Iopromide 370 mgI,80 contrast +50  saline,nan,Pressure injector
+22097468,Abdomen & Pelvis,128 slice CT,111,21,69,Female,148,47,0.984:1,0.4,Iopromide 370 mgI,75 contrast + 50  saline,2.8,Pressure injector
+23176765,Abdomen & Pelvis,128 slice CT,189,23,48,Male,176,77,0.984:1,0.6,Iopromide 370 mgI,88 contrast + 50  saline,2.8,Pressure injector
+23177416,Abdomen & Pelvis,128 slice CT,114,19,36,Male,148.5,48,0.984:1,0.6,Iopromide 370 mgI,78 contrast + 50  saline,2.8,Pressure injector
+23176989,Abdomen & Pelvis,128 slice CT,180,23,70,Male,165,77,0.984:1,0.6,Iopromide 370 mgI,88 contrast + 50  saline,2.8,Pressure injector
+23176238,Abdomen & Pelvis,128 slice CT,106,18,44,Male,157,54,0.984:1,0.6,Iopromide 370 mgI,80 contrast + 40  saline,3,Pressure injector
+17033627,Abdomen & Pelvis,128 slice CT,192,25,35,Male,169,80,0.984:1,0.6,Iopromide 370 mgI,88 contrast + 50  saline,2.8,Pressure injector
+23177719,Abdomen & Pelvis,128 slice CT,138,19,76,Male,160,55,0.984:1,0.6,Iopromide 370 mgI,75 contrast + 30  saline,2.8,Pressure injector
+23177959,Abdomen & Pelvis,128 slice CT,140,27,65,Male,157,70,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,2.8,Pressure injector
+22087526,Abdomen & Pelvis,128 slice CT,103,23,45,Male,176,59,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,2.8,Pressure injector
+23178738,Abdomen & Pelvis,128 slice CT,154,28,49,Female,157,58,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,2.8,Pressure injector
+22012704,Abdomen & Pelvis,128 slice CT,110,15,42,Female,163,32,0.984:1,0.6,Iopromide 370 mgI,75 contrast + 50  saline,2.8,Pressure injector
+23179864,Abdomen & Pelvis,128 slice CT,120,19,55,Male,173,62,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+23076698,Abdomen & Pelvis,128 slice CT,121,31,28,Female,153,55,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,2.8,Pressure injector
+23180895,Abdomen & Pelvis,128 slice CT,131,17,28,Male,155,55,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,3,Pressure injector
+23175575,Abdomen & Pelvis,128 slice CT,165,23,34,Male,165,85,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,2.5,Pressure injector
+23180940,Abdomen & Pelvis,128 slice CT,125,18,38,Female,151,36,0.984:1,0.6,Iopromide 370 mgI,70.contrast + 18 saline,3,Pressure injector
+23180901,Abdomen & Pelvis,128 slice CT,180,19,30,Female,154,75,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,3,Pressure injector
+23113268,Abdomen & Pelvis,128 slice CT,124,16,53,Female,150,55,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,2.8,Pressure injector
+23181258,Abdomen & Pelvis,128 slice CT,190,18,45,Female,166,75,0.984:1,0.6,Iopromide 370 mgI,90 contrast + 50  saline,3,Pressure injector
+23183084,Abdomen & Pelvis,128 slice CT,108,22,66,Male,170,45,0.984:1,0.6,Iopromide 370 mgI,80 contrast + 50  saline,2.8,Pressure injector
+23176794,Abdomen & Pelvis,128 slice CT,140,20,61,Male,161,45,0.984:1,0.6,Iopromide 370 mgI,80 contrast + 50  saline,3,Pressure injector
+23135277,Abdomen & Pelvis,128 slice CT,123,27,25,Male,170,75,0.984:1,0.6,Iopromide 370 mgI,90 contrast + 50  saline,3,Pressure injector
+23187382,Abdomen & Pelvis,128 slice CT,160,27,41,Male,174,53,0.984:1,0.6,Iopromide 370 mgI,85 contrast + 50  saline,3,Pressure injector
+19060232,Abdomen & Pelvis,128 slice CT,124,16,35,Male,172,75,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+23184148,Abdomen & Pelvis,128 slice CT,139,24,48,Male,170,72,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23182942,Abdomen & Pelvis,128 slice CT,193,16,26,Male,161,54,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+16121017,Abdomen & Pelvis,128 slice CT,169,15,38,Male,165,93,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+23020910,Abdomen & Pelvis,128 slice CT,123,25,58,Male,173,46,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+23185240,Abdomen & Pelvis,128 slice CT,105,16,61,Male,172,67,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+23183650,Abdomen & Pelvis,128 slice CT,154,18,58,Female,150,50,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23188639,Abdomen & Pelvis,128 slice CT,145,20,41,Female,147,59,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23166941,Abdomen & Pelvis,128 slice CT,145,15,48,Male,156,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22126747,Abdomen & Pelvis,128 slice CT,172,16,64,Female,161,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22034923,Abdomen & Pelvis,128 slice CT,101,17,63,Female,153,75,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+24002892,Abdomen & Pelvis,128 slice CT,164,23,67,Male,160,62,0.984:1,0.6,Iopromide 370 mgI,80,2.9,Pressure injector
+24001170,Abdomen & Pelvis,128 slice CT,130,17,31,Female,154,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23188762,Abdomen & Pelvis,128 slice CT,105,18,54,Male,161,79,0.984:1,0.6,Iopromide 370 mgI,90,3.5,Pressure injector
+24044380,Abdomen & Pelvis,128 slice CT,149,15,49,Male,163,74,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24004172,Abdomen & Pelvis,128 slice CT,133,22,22,Male,173,54,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+23187688,Abdomen & Pelvis,128 slice CT,190,19,70,Male,159,58,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23131457,Abdomen & Pelvis,128 slice CT,108,16,44,Male,160,65,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+17118611,Abdomen & Pelvis,128 slice CT,102,15,45,Male,165,58,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24005277,Abdomen & Pelvis,128 slice CT,127,20,64,Male,166,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23127677,Abdomen & Pelvis,128 slice CT,110,19,30,Female,161,63,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23098426,Abdomen & Pelvis,128 slice CT,141,16,74,Female,152,45,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+22104173,Abdomen & Pelvis,128 slice CT,140,14,41,Male,172,75,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23149075,Abdomen & Pelvis,128 slice CT,173,27,45,Male,163,53,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24006885,Abdomen & Pelvis,128 slice CT,153,24,56,Female,155,39.7,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+23160952,Abdomen & Pelvis,128 slice CT,128,13,58,Female,146,48,0.984:1,0.6,Iopromide 370 mgI,80,3.5,Pressure injector
+23104323,Abdomen & Pelvis,128 slice CT,192,19,54,Female,153,50,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24002349,Abdomen & Pelvis,128 slice CT,173,22,52,Female,159,85,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24010908,Abdomen & Pelvis,128 slice CT,189,18,34,Female,158,65,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23179711,Abdomen & Pelvis,128 slice CT,145,15,44,Female,155,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24010919,Abdomen & Pelvis,128 slice CT,133,14,36,Female,162,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24011306,Abdomen & Pelvis,128 slice CT,137,16,76,Female,148,45,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+24047238,Abdomen & Pelvis,128 slice CT,155,14,43,Female,157,61,0.984:1,0.6,Iopromide 370 mgI,85,2.9,Pressure injector
+19057271,Abdomen & Pelvis,128 slice CT,103,16,57,Male,167,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+23188099,Abdomen & Pelvis,128 slice CT,157,15,49,Female,149,45,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+24012725,Abdomen & Pelvis,128 slice CT,116,16,56,Female,153,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24012516,Abdomen & Pelvis,128 slice CT,148,17,68,Female,159,50,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+24011136,Abdomen & Pelvis,128 slice CT,100,18,18,Male,152,45,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+24013931,Abdomen & Pelvis,128 slice CT,141,16,65,Female,157,77,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+19066821,Abdomen & Pelvis,128 slice CT,155,14,48,Female,144,65,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24014646,Abdomen & Pelvis,128 slice CT,160,16,43,Female,163,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+17033559,Abdomen & Pelvis,128 slice CT,197,17,42,Male,116.5,45,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+24015839,Abdomen & Pelvis,128 slice CT,177,19,59,Male,153,55,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+23178218,Abdomen & Pelvis,128 slice CT,113,18,45,Male,162,59,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24047367,Abdomen & Pelvis,128 slice CT,130,19,47,Male,172,72,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24047192,Abdomen & Pelvis,128 slice CT,151,17,54,Female,162,60,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+22082258,Abdomen & Pelvis,128 slice CT,153,19,53,Male,172,90,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24048560,Abdomen & Pelvis,128 slice CT,195,17,78,Female,157,53,0.984:1,0.6,Iopromide 370 mgI,85,4,Pressure injector
+24038987,Abdomen & Pelvis,128 slice CT,137,18,56,Male,170,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24043808,Abdomen & Pelvis,128 slice CT,112,17,37,Female,157,70,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24039633,Abdomen & Pelvis,128 slice CT,161,19,45,Female,152,54,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24016336,Abdomen & Pelvis,128 slice CT,110,17,21,Female,152,43,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24016315,Abdomen & Pelvis,128 slice CT,146,19,60,Female,163,90,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+24007857,Abdomen & Pelvis,128 slice CT,191,26,48,Male,167,83,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+24012589,Abdomen & Pelvis,128 slice CT,126,24,51,Male,158,49,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24017396,Abdomen & Pelvis,128 slice CT,109,20,58,Female,162,70,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24016938,Abdomen & Pelvis,128 slice CT,170,25,86,Male,172,65,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24007132,Abdomen & Pelvis,128 slice CT,111,23,60,Male,155,65,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24013949,Abdomen & Pelvis,128 slice CT,169,12,75,Female,152,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+21050125,Abdomen & Pelvis,128 slice CT,176,17,40,Male,175,75,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+19076726,Abdomen & Pelvis,128 slice CT,139,18,25,Male,166,40,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+19093314,Abdomen & Pelvis,128 slice CT,174,17,56,Female,143,55,0.984:1,0.6,Iopromide 370 mgI,82,2.8,Pressure injector
+23019179,Abdomen & Pelvis,128 slice CT,125,19,63,Female,155,56,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24024545,Abdomen & Pelvis,128 slice CT,187,16,52,Male,163,67,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24039618,Abdomen & Pelvis,128 slice CT,129,27,32,Male,170,60,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+18006677,Abdomen & Pelvis,128 slice CT,113,18,57,Male,162,84,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+24055915,Abdomen & Pelvis,128 slice CT,146,20,38,Female,153,70,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24054783,Abdomen & Pelvis,128 slice CT,185,16,63,Male,163,56,0.984:1,0.6,Iopromide 370 mgI,82,2.8,Pressure injector
+24025399,Abdomen & Pelvis,128 slice CT,185,14,36,Male,158,49,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24025229,Abdomen & Pelvis,128 slice CT,152,12,77,Male,168,41,0.084:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+24025455,Abdomen & Pelvis,128 slice CT,195,15,60,Female,150,50,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+24024718,Abdomen & Pelvis,128 slice CT,108,14,20,Male,175,50,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+22128795,Abdomen & Pelvis,128 slice CT,145,15,42,Female,154,70,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24024537,Abdomen & Pelvis,128 slice CT,137,14,39,Female,158,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+18093761,Abdomen & Pelvis,128 slice CT,191,20,61,Male,165,73,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+24021712,Abdomen & Pelvis,128 slice CT,108,28,32,Male,169,81,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+24018665,Abdomen & Pelvis,128 slice CT,102,20,44,Male,159.5,74,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24023843,Abdomen & Pelvis,128 slice CT,166,15,61,Male,173,62,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24027094,Abdomen & Pelvis,128 slice CT,110,16,32,Female,158,48,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+23103532,Abdomen & Pelvis,128 slice CT,192,15,62,Female,158,77,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+21014347,Abdomen & Pelvis,128 slice CT,177,26,46,Female,164,80,0.984:1,0.6,Iopromide 370 mgI,90,2.8,Pressure injector
+24014566,Abdomen & Pelvis,128 slice CT,185,18,71,Male,163,50,0.984:1,0.6,Iopromide 370 mgI,90,2.8,Pressure injector
+24005728,Abdomen & Pelvis,128 slice CT,193,21,59,Male,177,85,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24027862,Abdomen & Pelvis,128 slice CT,175,25,30,Male,169,75,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+23177999,Abdomen & Pelvis,128 slice CT,104,16,67,Female,156,45,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+24060769,Abdomen & Pelvis,128 slice CT,103,14,24,Female,157,50,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24060604,Abdomen & Pelvis,128 slice CT,115,19,45,Female,155,69,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24013289,Abdomen & Pelvis,128 slice CT,135,17,51,Female,156,40,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24028660,Abdomen & Pelvis,128 slice CT,178,26,29,Female,175,75,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+22072360,Abdomen & Pelvis,128 slice CT,195,17,80,Female,148,54,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+24026336,Abdomen & Pelvis,128 slice CT,156,17,28,Female,153,50,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+22037071,Abdomen & Pelvis,128 slice CT,141,19,47,Male,156,56,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+24029214,Abdomen & Pelvis,128 slice CT,196,21,58,Male,172,74,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+23002395,Abdomen & Pelvis,128 slice CT,139,19,55,Male,155,55.4,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+24030792,Abdomen & Pelvis,128 slice CT,178,19,54,Male,153,51,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+23165557,Abdomen & Pelvis,128 slice CT,198,16,61,Male,152,52,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23112025,Abdomen & Pelvis,128 slice CT,186,20,50,Female,161,74,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24031889,Abdomen & Pelvis,128 slice CT,169,16,31,Female,153,54,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+24031571,Abdomen & Pelvis,128 slice CT,166,17,69,Female,148,45,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+24031262,Abdomen & Pelvis,128 slice CT,119,19,31,Female,156,40,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24033005,Abdomen & Pelvis,128 slice CT,126,26,50,Male,164,80,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+24032562,Abdomen & Pelvis,128 slice CT,164,20,57,Female,155,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24033157,Abdomen & Pelvis,128 slice CT,117,15,31,Female,163,53,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24018309,Abdomen & Pelvis,128 slice CT,153,17,25,Male,155,62,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24035917,Abdomen & Pelvis,128 slice CT,199,16,75,Male,150,52,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+24030749,Abdomen & Pelvis,128 slice CT,163,17,58,Female,152,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24037011,Abdomen & Pelvis,128 slice CT,179,15,74,Female,149,44,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24027179,Abdomen & Pelvis,128 slice CT,190,20,39,Male,178,70,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24042841,Abdomen & Pelvis,128 slice CT,126,16,30,Male,159,54,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24042719,Abdomen & Pelvis,128 slice CT,139,14,71,Female,154,43.8,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+24060959,Abdomen & Pelvis,128 slice CT,159,16,71,Male,167,57,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24037308,Abdomen & Pelvis,128 slice CT,138,15,51,Female,151,51,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+23140355,Abdomen & Pelvis,128 slice CT,157,15,27,Female,152,54,0.984:1,0.6,Iopromide 370 mgI,80,nan,Pressure injector
+24043603,"Abdomen & Pelvis, ",128 slice CT,123,16,59,Female,146,55,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+24040874,Abdomen & Pelvis,128 slice CT,185,15,62,Male,150,60,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+23184382,Abdomen & Pelvis,128 slice CT,149,16,58,Female,144,48,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+24052554,Abdomen & Pelvis,128 slice CT,181,14,24,Male,178,42,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24045636,Abdomen & Pelvis,128 slice CT,176,20,55,Male,159,67,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+24053974,Abdomen & Pelvis,128 slice CT,102,18,70,Male,154,56,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+22078303,Abdomen & Pelvis,128 slice CT,164,21,39,Male,171,61,0.984:1,0.6,Iopromide 370 mgI,82,2.8,Pressure injector
+24179657,Abdomen & Pelvis,128 slice CT,122,25,59,Female,157,70,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24181718,Abdomen & Pelvis,128 slice CT,152,18,40,Female,149,56,0.984:1,0.6,Iopromide 370 mgI,87,3,Pressure injector
+24174580,Abdomen & Pelvis,128 slice CT,165,18,46,Female,163,54,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24182272,Abdomen & Pelvis,128 slice CT,159,20,75,Female,147,44,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+24182701,Abdomen & Pelvis,128 slice CT,184,24,61,Female,157,61,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24172199,Abdomen & Pelvis,128 slice CT,128,18,60,Male,175,73,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+22066275,Abdomen & Pelvis,128 slice CT,175,26,54,Male,172,48,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+24163346,Abdomen & Pelvis,128 slice CT,125,20,67,Male,166,72,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+23183164,Abdomen & Pelvis,128 slice CT,199,14,53,Male,166,55,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+24146663,Abdomen & Pelvis,128 slice CT,104,20,71,Male,159,56,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+24188648,Abdomen & Pelvis,128 slice CT,143,21,56,Male,165,46,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23100749,Abdomen & Pelvis,128 slice CT,148,19,73,Male,175,58,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+24111399,Abdomen & Pelvis,128 slice CT,167,19,29,Female,147,53,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+25014675,Abdomen & Pelvis,128 slice CT,185,20,56,Female,152,62,0.984:1,0.6,Iopromide 370 mgI,86,3,Pressure injector
+25017532,Abdomen & Pelvis,128 slice CT,187,19,30,Female,160,65,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+25017603,Abdomen & Pelvis,128 slice CT,118,26,51,Male,168,75,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+25017551,Abdomen & Pelvis,128 slice CT,146,16,51,Female,155,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+25006408,Abdomen & Pelvis,128 slice CT,189,16,60,Male,165,62,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+19081700,Abdomen & Pelvis,128 slice CT,170,20,41,Female,150,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23104564,Abdomen & Pelvis,128 slice CT,198,14,52,Male,157,37,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+24088639,Abdomen & Pelvis,128 slice CT,190,15,56,Male,167,56,0.984:1,0.6,Iopromide 370 mgI,90,4,Pressure injector
+25008225,Abdomen & Pelvis,128 slice CT,144,15,60,Female,146,39,0.984:1,0.4,Iopromide 370 mgI,75,3,Pressure injector
+24117772,"Abdomen & Pelvis, ",128 slice CT,163,17,59,Male,174,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+21002933,Abdomen & Pelvis,128 slice CT,109,16,58,Female,151,44,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+19072789,Abdomen & Pelvis,128 slice CT,199,20,62,Male,164,45,0.984:1,0.6,Iopromide 370 mgI,80,2.5,Pressure injector
+25020002,Abdomen & Pelvis,128 slice CT,136,15,34,Female,147.5,49,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+25019669,Abdomen & Pelvis,128 slice CT,118,17,60,Male,166,70,0.984:1,0.6,Iopromide 370 mgI,86,3,Pressure injector
+25018975,Abdomen & Pelvis,128 slice CT,127,17,66,Male,171,75,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+20040102,Abdomen & Pelvis,128 slice CT,196,18,22,Male,163,58,0.984:1,0.4,Iopromide 370 mgI,80,3,Pressure injector
+25019021,Abdomen & Pelvis,128 slice CT,127,19,27,Female,165,40,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23179113,Abdomen & Pelvis,128 slice CT,176,15,67,Female,152,47,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+25013556,Abdomen & Pelvis,128 slice CT,113,16,22,Male,165,55,0.984:1,0.6,Iopromide 370 mgI,80,4,Pressure injector
+25021502,Abdomen & Pelvis,128 slice CT,193,18,38,Male,171,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+19044262,Abdomen & Pelvis,128 slice CT,157,14,66,Female,154,47,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+23045260,Abdomen & Pelvis,128 slice CT,171,14,53,Male,161,44,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,112,18,67,Male,156,59,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,165,17,43,Male,157,58,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,137,17,66,Male,157,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,140,16,57,Female,154,54,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,186,17,45,Female,155,53,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,96,19,56,Male,164,65,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,102,18,62,Female,157,60,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,187,19,54,Male,167,67,0.984:1,0.6,Iopromide 370 mgI,98,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,115,15,56,Male,164,49,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,132,16,62,Male,163,56,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,191,19,29,Male,167,65,0.984:1,0.6,Iohexol 350 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,124,13,72,Male,153,40,0.984:1,0.4,Iohexol 350 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,127,15,76,Male,145,62,0.984:1,0.4,Iopromide 370 mgI,85,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,202,18,68,Male,174,63,0.984:1,0.6,Iopromide 370 mgI,85,4,Pressure injector
+,Abdomen & Pelvis,128 slice CT,162,15,54,Female,155,55,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,"Abdomen & Pelvis, ",128 slice CT,120,25,52,Male,171,77,0.984:1,0.6,Iopromide 370 mgI,88,4,Pressure injector
+,Abdomen & Pelvis,128 slice CT,196,22,35,Male,168,73,0.984:1,0.6,Iopromide 370 mgI,80,35,Pressure injector
+,Abdomen & Pelvis,128 slice CT,121,15,39,Male,169,57,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,27,63,Female,150,85,0.984:1,0.6,Iopromide 370 mgI,90,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,192,13,53,Female,152,44,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,136,19,58,Male,163,65,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,126,15,54,Female,157,53,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,14,68,Female,147,48,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,197,26,57,Male,176,83,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,126,17,43,Male,165,57,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,165,19,49,Male,174,65,0.984:1,0.4,Iopromide 370 mgI,85,2.9,Pressure injector
+,Abdomen & Pelvis,128 slice CT,186,15,62,Female,150,51,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,182,27,65,Male,171,93,0.984:1,0.6,Iopromide 370 mgI,90,3.3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,106,19,60,Male,170,64,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,148,20,55,Male,167,56,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,166,16,58,Male,171,66,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,139,21,63,Male,167,66,0.984:1,0.6,Iohexol 350 mgI,90,3.3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,181,18,43,Female,161,59,0.984:1,0.4,Iohexol 350 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,161,16,78,Female,54,46,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,22,45,Male,161,63,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,124,15,53,Female,165,59,0.984:1,0.4,Iohexol 350 mgI,77,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,119,23,39,Female,171,71,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,20,64,Male,163,63,0.984:1,0.6,Iopromide 370 mgI,3,80,Pressure injector
+,Abdomen & Pelvis,128 slice CT,131,19,53,Female,166,59,0.984:1,0.4,Iopromide 370 mgI,85,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,95,13,27,Female,158,53,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,132,16,54,Male,160,59,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,113,19,36,Male,163,62,0.984:1,0.6,Iohexol 350 mgI,90,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,125,18,67,Male,159,56,0.984:1,0.4,Iohexol 350 mgI,78,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,137,13,54,Female,153,36,0.984:1,0.6,Iohexol 350 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,148,17,43,Female,164,59,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,115,16,45,Male,174,54,0.984:1,0.4,Iohexol 350 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,167,13,67,Female,146,59,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,189,26,56,Female,158,84,0.984:1,0.6,Iohexol 350 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,191,22,79,Female,163,65,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,168,16,56,Male,163,57,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,162,23,65,Male,161,79,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,180,15,53,Female,150,50,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,128,16,56,Female,158,48,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,138,15,47,Female,152,43,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,122,24,32,Male,171,51,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,112,18,53,Female,150,50,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,116,25,47,Male,138,75,0.984:1,0.4,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,107,17,28,Male,176,68,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,204,15,54,Male,159,61,0.984:1,0.6,Iopromide 370 mgI,85,3.3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,13,65,Female,159,57,0.984:1,0.4,Iopromide 370 mgI,85,2.7,Pressure injector
+,Abdomen & Pelvis,128 slice CT,173,26,33,Female,157,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,138,18,72,Female,156,61,0.984:1,0.6,Iopromide 370 mgI,70,2.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,127,16,51,Male,161,66,0.984:1,0.6,Iopromide 370 mgI,85,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,162,20,27,Female,148,54,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,180,21,55,Female,153,63,0.984:1,0.6,Iopromide 370 mgI,86,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,182,18,31,Female,161,66,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,123,25,54,Male,169,76,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,151,17,57,Female,156,56,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,194,15,63,Male,166,63,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,175,21,42,Female,151,56,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,193,15,53,Male,158,38,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,185,16,57,Male,168,57,0.984:1,0.6,Iopromide 370 mgI,90,4,Pressure injector
+,Abdomen & Pelvis,128 slice CT,149,14,63,Female,147,40,0.984:1,0.4,Iopromide 370 mgI,75,3,Pressure injector
+,"Abdomen & Pelvis, ",128 slice CT,168,18,61,Male,175,65,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,104,15,57,Female,152,45,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,194,21,63,Male,165,46,0.984:1,0.6,Iopromide 370 mgI,80,2.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,131,16,37,Female,148,50,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,123,18,61,Male,167,71,0.984:1,0.6,Iopromide 370 mgI,86,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,122,16,69,Male,172,76,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,201,19,21,Male,164,59,0.984:1,0.4,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,122,20,23,Female,166,41,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,181,16,69,Female,153,48,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,118,17,24,Male,166,56,0.984:1,0.6,Iopromide 370 mgI,80,4,Pressure injector
+,Abdomen & Pelvis,128 slice CT,188,19,39,Male,172,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,152,15,67,Female,155,48,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,176,13,54,Male,162,45,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,197,15,40,Male,145,58,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,177,23,58,Male,156,58,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,180,15,40,Female,160,70,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,152,16,25,Female,151,53,0.984:1,0.6,Iopromide 370 mgI,80,nan,Pressure injector
+,"Abdomen & Pelvis, ",128 slice CT,128,17,57,Female,145,54,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,190,14,61,Male,149,59,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,144,15,59,Female,143,47,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,186,13,23,Male,177,41,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,181,21,56,Male,158,66,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,107,19,71,Male,153,55,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,159,20,40,Male,170,60,0.984:1,0.6,Iopromide 370 mgI,82,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,127,24,63,Female,156,69,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,157,19,47,Female,148,55,0.984:1,0.6,Iopromide 370 mgI,87,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,160,17,39,Female,162,53,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,154,21,70,Female,146,43,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,189,23,60,Female,156,60,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,123,19,65,Male,174,72,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,170,25,57,Male,173,49,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,120,21,63,Male,167,73,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,194,15,54,Male,167,56,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,109,21,73,Male,160,57,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,148,22,57,Male,166,47,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,153,18,71,Male,176,59,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,132,19,54,Male,162,59,0.984:1,1,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,191,13,39,Female,159,56,1.375:1,0.4,Iopromide 370 mgI,90,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,111,25,20,Male,165,76,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,127,23,57,Male,163,71,0.516:1,1,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,179,17,72,Male,160,61,0.984:1,0.4,Iopromide 370 mgI,85,2.9,Pressure injector
+,Abdomen & Pelvis,128 slice CT,175,22,66,Male,169,71,0.516:1,1,Iohexol 350 mgI,100,4,Pressure injector
+,Abdomen & Pelvis,128 slice CT,111,19,59,Male,163,70,0.516:1,1,Iohexol 350 mgI,85,3.7,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,20,74,Male,161,61,0.984:1,0.6,Iopromide 370 mgI,85,2.7,Pressure injector
+,Abdomen & Pelvis,128 slice CT,117,17,62,Male,162,59,0.516:1,1,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,16,35,Female,157,57,0.516:1,1,Iopromide 370 mgI,85,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,135,21,49,Male,165,76,0.516:1,1,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,193,19,55,Female,166,61,0.516:1,1,Iopromide 370 mgI,80,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,169,15,67,Female,155,53,0.516:1,1,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,175,15,73,Female,159,56,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,138,29,54,Male,174,71,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,187,15,46,Male,152,45,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,165,20,35,Male,155,59,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,163,24,25,Male,169,71,0.984:1,0.6,Iopromide 370 mgI,80,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,123,19,56,Male,161,59,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,177,17,53,Male,157,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,157,13,75,Male,167,40,0.084:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,200,16,63,Female,149,49,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,113,15,21,Male,174,49,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,150,14,43,Female,153,69,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,132,15,40,Female,157,62,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,196,21,60,Male,164,72,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,102,27,35,Male,168,80,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,106,19,47,Male,158,73,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,161,16,63,Male,172,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,15,35,Female,157,47,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,197,16,67,Female,157,76,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,172,25,47,Female,163,79,0.984:1,0.6,Iopromide 370 mgI,90,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,190,19,73,Male,162,49,0.984:1,0.6,Iopromide 370 mgI,90,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,198,22,61,Male,176,84,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,170,24,32,Male,168,74,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,109,17,69,Female,157,46,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,108,13,26,Female,158,51,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,110,18,43,Female,156,70,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,130,16,53,Female,157,41,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,173,25,26,Female,176,76,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,190,18,82,Female,149,55,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,161,16,26,Female,154,51,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,146,20,48,Male,157,57,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,201,22,55,Male,173,75,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,144,18,54,Male,156,56,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,173,20,57,Male,154,52,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,193,17,60,Male,153,53,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,191,19,52,Female,162,75,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,17,33,Female,154,55,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,161,18,70,Female,149,46,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,114,20,33,Female,157,41,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,121,25,57,Male,165,81,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,169,21,56,Female,156,62,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,122,16,32,Female,164,54,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,158,18,27,Male,156,63,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,204,15,77,Male,151,53,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,158,16,59,Female,151,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,174,14,77,Female,148,43,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,185,21,40,Male,177,69,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,121,17,32,Male,158,53,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,144,15,77,Female,153,42,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,17,75,Male,166,56,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,133,16,55,Female,150,50,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,118,24,57,Male,174,47,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,100,15,65,Male,173,68,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,149,17,60,Female,151,51,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,150,19,47,Female,148,60,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,150,14,49,Male,157,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,177,15,61,Female,162,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,106,16,64,Female,154,76,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,169,22,70,Male,161,63,0.984:1,0.6,Iopromide 370 mgI,80,2.9,Pressure injector
+,Abdomen & Pelvis,128 slice CT,135,16,35,Female,155,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,110,19,50,Male,162,80,0.984:1,0.6,Iopromide 370 mgI,90,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,154,16,41,Male,164,75,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,138,21,29,Male,174,55,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,195,18,71,Male,160,59,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,113,15,49,Male,161,66,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,107,14,47,Male,166,59,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,132,21,63,Male,167,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,115,18,35,Female,160,62,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,146,17,76,Female,151,44,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,145,15,39,Male,171,74,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,178,26,40,Male,162,52,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,158,23,57,Female,154,38,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,133,14,59,Female,145,47,0.984:1,0.6,Iopromide 370 mgI,80,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,197,20,50,Female,152,49,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,178,23,51,Female,158,84,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,184,17,39,Female,157,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,140,16,47,Female,154,54,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,133,13,37,Female,161,53,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,137,15,77,Female,147,44,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,155,15,45,Female,156,60,0.984:1,0.6,Iopromide 370 mgI,85,2.9,Pressure injector
+,Abdomen & Pelvis,128 slice CT,98,16,51,Male,166,62,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,152,14,52,Female,148,44,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,111,17,57,Female,152,59,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,143,18,61,Female,158,49,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,95,17,21,Male,151,44,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,136,15,67,Female,156,76,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,150,15,49,Female,143,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,155,17,42,Female,163,59,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,192,16,43,Male,116.5,44,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,172,20,55,Male,154,56,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,108,17,44,Male,163,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,125,18,49,Male,173,73,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,146,16,55,Female,163,61,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,148,20,55,Male,173,91,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,190,18,79,Female,158,54,0.984:1,0.6,Iopromide 370 mgI,85,4,Pressure injector
+,Abdomen & Pelvis,128 slice CT,132,17,57,Male,171,65,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,107,18,39,Female,158,71,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,156,20,41,Female,153,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,18,25,Female,153,44,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,151,18,63,Female,164,91,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,196,27,49,Male,168,84,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,131,23,50,Male,159,50,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,114,19,61,Female,163,71,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,175,24,80,Male,173,66,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,116,22,61,Male,156,66,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,174,13,77,Female,153,56,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,181,18,41,Male,176,76,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,144,19,20,Male,167,41,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,179,16,53,Female,144,56,0.984:1,0.6,Iopromide 370 mgI,82,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,130,20,61,Female,156,57,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,182,17,55,Male,162,66,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,116,26,33,Male,169,59,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,118,19,56,Male,161,83,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,151,21,39,Female,152,69,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,190,15,60,Male,162,55,0.984:1,0.6,Iopromide 370 mgI,82,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,190,14,37,Male,157,48,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,130,15,64,Male,176,61,.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,107,13,58,Male,149,39,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,203,17,74,Female,141,37,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,136,13,77,Female,151,57,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,180,17,67,Male,159,57,0.984:1,0.8,Iopromide 370 mgI,85,3.2,Pressure injector
+,Abdomen & Pelvis,128 slice CT,169,14,25,Male,173,61,0.984:1,0.6,Iopromide 370 mgI,80,3.2,Pressure injector
+,Abdomen & Pelvis,128 slice CT,126,20,33,Female,154,64,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,191,16,81,Male,171,61,0.984:1,0.6,Iopromide 370 mgI,80,3.2,Pressure injector
+,Abdomen & Pelvis,128 slice CT,131,14,85,Male,156,56,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,18,38,Female,153,41,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,115,20,79,Female,159,53,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,165,18,64,Male,158,52,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,142,20,63,Male,156,61,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,144,15,65,Female,156,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,189,18,22,Male,171,52,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,121,22,29,Female,151,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,147,19,65,Male,156,65,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,200,22,45,Female,156,61,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,111,27,48,Female,168,90,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,202,15,78,Female,155,46,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,160,19,53,Male,171,76,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,103,15,67,Male,162,61,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,143,17,48,Male,157,62,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,118,15,28,Male,166,69,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,170,19,55,Female,147,46,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,191,24,12,Male,145,29,0.984:1,0.6,Iohexol 350 mgI,45,2.7,Pressure injector
+,Abdomen & Pelvis,128 slice CT,148,29,65,Male,162,66,0.984:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,109,17,55,Male,161,41,0.984:1,0.4,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,183,15,37,Female,148,50,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,114,18,50,Female,158,51,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,166,15,64,Female,163,57,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,138,18,61,Female,156,47,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,193,14,45,Male,164,46,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,99,16,36,Female,150,51,0.984:1,0.4,Iopromide 370 mgI,77,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,189,13,47,Female,154,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,181,15,25,Male,176,64,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,135,18,26,Female,163,59,0.984:1,0.4,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,135,16,53,Male,165,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,194,15,37,Male,162,55,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,191,13,61,Female,136,47,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,116,16,65,Male,162,59,0.984:1,0.6,Iopromide 370 mgI,85,2.7,Pressure injector
+,Abdomen & Pelvis,128 slice CT,188,13,11,Male,148,35,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,137,15,53,Male,179,66,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,146,17,49,Female,151,43,0.984:1,0.6,Iohexol 350 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,174,13,26,Female,145,46,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,191,17,70,Male,151,71,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,175,20,42,Male,166,57,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,185,13,31,Male,179,87,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,129,27,46,Male,161,76,0.987:1,0.4,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,159,13,77,Male,158,46,0.984:1,0.6,Iopromide 370 mgI,78,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,135,16,57,Female,139,29,0.984:1,0.4,Iopromide 370 mgI,70,2.7,Pressure injector
+,Abdomen & Pelvis,128 slice CT,168,21,41,Male,171,78,0.984:1,0.6,Iopromide 370 mgI,89,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,189,18,66,Male,179,55,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,123,21,78,Female,149,48,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,177,18,61,Female,151,49,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,136,22,39,Male,173,83,0.984:1,0.6,Iopromide 370 mgI,85,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,136,27,77,Male,171,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,135,19,52,Male,169,47,0.984:1,0.4,Iopromide 370 mgI,78,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,172,16,71,Female,149,45,0.984:1,0.6,Iopromide 370 mgI,78,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,136,24,52,Female,152,61,0.984:1,0.6,Iopromide 370 mgI,85,2.7,Pressure injector
+,Abdomen & Pelvis,128 slice CT,127,21,53,Male,181,83,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,142,23,57,Male,157,59,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,188,19,42,Female,145,55,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,103,14,45,Female,147,42,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,21,51,Male,171,79,0.984:1,0.6,Iohexol 350 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,193,18,43,Female,148,33,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,145,24,40,Male,168,74,0.984:1,0.6,Iohexol 350 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,20,62,Female,153,64,0.984:1,0.6,Iopromide 370 mgI,82,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,120,17,60,Female,156,62,0.984:1,0.6,Iopromide 370 mgI,82,3.2,Pressure injector
+,Abdomen & Pelvis,128 slice CT,115,14,55,Male,162,53,0.984:1,0.6,Iohexol 350 mgI,86,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,127,17,53,Male,169,62,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,140,15,45,Male,160,53,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,178,20,66,Male,158,51,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,171,13,19,Female,153,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,138,17,52,Male,153,60,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,110,19,41,Male,172,66,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,106,23,80,Female,156,43,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,140,20,72,Male,153,38,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,134,17,53,Female,141,45,0.984:1,0.4,Iohexol 350 mgI,80,2.3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,120,13,20,Female,155,30,0.984:1,0.6,Iopromide 370 mgI,70,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,182,23,53,Male,175,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,158,21,62,Male,169,76,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,117,17,59,Male,166,67,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,120,20,47,Male,169,70,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,194,18,42,Female,141,50,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,128,14,61,Female,150,51,0.984:1,0.6,Iopromide 370 mgI,82,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,148,27,41,Male,168,83,0.984:1,0.6,Iopromide 370 mgI,88,3.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,153,22,65,Female,155,55,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,122,20,32,Male,174,70,0.984:1,0.6,Iopromide 370 mgI,85,4,Pressure injector
+,Abdomen & Pelvis,128 slice CT,181,16,60,Male,158,57,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,130,19,29,Female,155,76,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,202,22,75,Male,165,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,195,24,46,Female,165,57,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,125,16,47,Female,152,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,152,20,43,Female,147,53,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,126,16,51,Female,158,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,115,13,56,Female,153,48,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,121,17,47,Female,153,59,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,136,15,49,Female,154,49,0.984:1,0.6,Iopromide 370 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,199,16,60,Female,154,54,0.984:1,0.6,Iohexol 350 mgI,75,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,170,17,63,Male,164,59,0.984:1,0.6,Iohexol 350 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,153,14,72,Male,169,69,0.984:1,0.6,Iohexol 350 mgI,75,2.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,141,27,41,Male,150,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,203,17,17,Female,154,39,0.984:1,0.6,Iopromide 370 mgI,60,2.6,Pressure injector
+,Abdomen & Pelvis,128 slice CT,131,14,49,Male,167,64,0.984:1,0.6,Iohexol 350 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,111,16,40,Male,164,54,0.984:1,0.4,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,165,32,73,Male,151,39,0.984:1,0.6,Iohexol 350 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,161,16,30,Male,169,69,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,151,21,37,Female,157,51,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,192,24,61,Male,170,61,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,132,16,53,Female,142,42,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,102,22,57,Male,161,67,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,160,14,59,Male,174,66,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,99,12,71,Female,151,47,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,155,21,55,Male,167,57,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,140,28,59,Male,171,52,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,172,16,56,Male,167,53,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,152,25,50,Male,183,110,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,111,17,67,Male,156,61,0.984:1,0.7,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,132,20,41,Female,164,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,130,22,40,Male,172,66,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,184,13,56,Male,171,72,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,163,18,65,Male,178,66,0.984:1,0.4,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,109,15,47,Female,161,76,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,139,21,43,Female,151,63,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,169,20,77,Male,161,69,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,131,17,69,Male,156,60,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,171,13,21,Male,170,79,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,145,19,47,Male,175,79,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,120,16,20,Male,166,59,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,200,23,43,Male,171,70,0.984:1,0.6,Iopromide 370 mgI,87,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,144,24,67,Male,171,76,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,20,65,Male,158,58,0.984:1,0.6,Iopromide 370 mgI,80   40,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,129,17,30,Male,174,68,0.984:1,0.6,Iopromide 370 mgI,85   40,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,20,35,Female,154,47,0.984:1,0.4,Iopromide 370 mgI,75   30,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,140,17,75,Male,154,53,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,180,19,25,Male,176,73,0.984:1,0.6,Iopromide 370 mgI,80,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,116,22,71,Female,149,48,0.984:1,0.4,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,194,24,45,Male,175,76,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,119,18,38,Male,147,47,0.984:1,0.6,Iopromide 370 mgI,78,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,185,22,72,Male,164,76,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,111,17,45,Male,156,53,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,197,26,37,Male,168,79,0.984:1,0.6,Iopromide 370 mgI,88,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,143,18,79,Male,159,54,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,145,28,64,Male,158,69,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,108,24,48,Male,175,58,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,149,27,51,Female,156,57,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,105,16,45,Female,162,31,0.984:1,0.6,Iopromide 370 mgI,75,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,115,20,56,Male,172,61,0.984:1,0.6,Iopromide 370 mgI,nan,nan,Pressure injector
+,Abdomen & Pelvis,128 slice CT,116,30,24,Female,152,54,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,126,18,27,Male,154,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,160,22,36,Male,164,84,0.984:1,0.6,Iopromide 370 mgI,85,2.5,Pressure injector
+,Abdomen & Pelvis,128 slice CT,10,17,33,Female,150,35,0.984:1,0.6,Iopromide 370 mgI,70,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,175,20,32,Female,153,74,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,119,15,59,Female,149,54,0.984:1,0.6,Iopromide 370 mgI,85,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,185,17,46,Female,165,74,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,103,21,67,Male,169,44,0.984:1,0.6,Iopromide 370 mgI,80,2.8,Pressure injector
+,Abdomen & Pelvis,128 slice CT,135,19,63,Male,160,44,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,118,26,26,Male,169,74,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,155,26,46,Male,175,54,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,119,17,37,Male,173,76,0.984:1,0.6,Iopromide 370 mgI,88,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,124,23,49,Male,171,73,0.984:1,0.6,Iopromide 370 mgI,85,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,187,15,25,Male,162,55,0.984:1,0.6,Iopromide 370 mgI,80,3,Pressure injector
+,Abdomen & Pelvis,128 slice CT,164,14,39,Male,166,94,0.984:1,0.6,Iopromide 370 mgI,90,3,Pressure injector
